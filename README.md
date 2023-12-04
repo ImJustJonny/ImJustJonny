@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [CTI110-ConcertPoster Project](https://github.com/Kaleb47/Concert-Poster)
 
-- 🌱 I’m currently learning **Amazon Web Services, Kubernetes, and more.**
+- 🌱 I’m taking the time to learn more about **Amazon Web Services, , GCP, Kubernetes, and more.**
 
-- 📫 How to reach me **jonathonrussellus@gmail.com**
+- 📫 The best way to reach me is at **jonathonrussellus@gmail.com**
 
 - ⚡ Fun fact **I won the first ever British eSports competition for Rocket League in 2019. It is now part of the Commonwealth Games.**
 
