@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jonathonrussell/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jonathonrussell/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20008162/just-jonny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20008162/just-jonny" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/jonny.russell.75/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jonny.russell.75/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/imjustjonny/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/imjustjonny/" height="30" width="40" /></a>
+<a href="https://leetcode.com/imjustjonny/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/imjustjonny/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
