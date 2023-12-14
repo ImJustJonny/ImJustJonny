@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathon Russell</h1>
 <h3 align="center">I'm a 24-year-old student at Wake Technical Community College. The challenges of COVID sparked my fascination with Cloud Computing, environment creation, and coding. I'm eagerly seeking internship opportunities for the summer of 2024 to apply my growing skills, contribute meaningfully, and continue learning from industry professionals in the field.</h3>
 
-- 🔭 I’m currently working on gaining my AWS Solutions Architect Associate certification.
+- 🔭 I’m currently working on gaining my AWS Solutions Architect Associate certification, and Ardit Sulce's 60 Day Python course.
 
 - 🌱 I’m taking the time to learn more about **Amazon Web Services, , GCP, Kubernetes, and more.**
 
