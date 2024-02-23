@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathon Russell</h1>
-<h3 align="center">I'm a 24-year-old student at Wake Technical Community College. The challenges of COVID sparked my fascination with Cloud Computing, environment creation, and coding. I'm eagerly seeking internship opportunities for the summer of 2024 to apply my growing skills, contribute meaningfully, and continue learning from industry professionals in the field.</h3>
+<h3 align="center">Seeking opportunities to leverage my experience & education in IT systems, networking, and cloud technologies in a full-time, part-time or internship position.</h3>
 
 - 🔭 I’m currently working on my Wake Tech Classes, this summer I plan on doing my AWS Solutions Architect Associate certification, and Ardit Sulce's 60 Day Python course.
 
