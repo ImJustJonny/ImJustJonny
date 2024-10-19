@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathon Russell</h1>
-<h3 align="center">Seeking opportunities to leverage my experience & education in IT systems, networking, and cloud technologies in a full-time, part-time or internship position.</h3>
+<h3 align="center">Seeking opportunities to leverage my experience & education in IT systems, networking, and cloud technologies in a full-time position.</h3>
 
-- 🔭 I’m currently working on my Wake Tech Classes, this summer I plan on doing my AWS Solutions Architect Associate certification, and Ardit Sulce's 60 Day Python course.
+- 🔭 I’m currently working on my Wake Tech Classes.
 
 - 🌱 I’m taking the time to learn more about **Amazon Web Services, , GCP, Kubernetes, and more.**
 
