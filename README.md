@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my Wake Tech Classes.
 
-- 🌱 I’m taking the time to learn more about **Amazon Web Services, , GCP, Kubernetes, and more.**
+- 🌱 I’m taking the time to learn more about **Front-end website development with languages like javascript, css, and more**
 
 - 📫 The best way to reach me is at **jonathonrussellus@gmail.com**
 
