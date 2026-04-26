@@ -8,6 +8,7 @@
 - ⚡ Fun fact **I won the British eSports 2019 Colleges Championship for Rocket League!**
 
 <h3 align="left">Connect with me:</h3>
+<p alight="left"> https://www.linkedin.com/in/jonathonrussell/ </p>
 <p align="left">
 </p>
 
